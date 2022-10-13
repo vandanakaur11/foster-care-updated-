@@ -1,0 +1,14 @@
+.bg-footer {
+  background-color: #303030;
+  padding: 50px 0 30px;
+}
+.footer-heading {
+  letter-spacing: 2px;
+}
+
+.footer-link a {
+  color: #acacac;
+  line-height: 40px;
+  font-size: 14px;
+  transition: all 0.5s;
+}
